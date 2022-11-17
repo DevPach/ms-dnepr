@@ -79,4 +79,5 @@ def mess(message):
     else: bot.send_message(message.chat.id, "I'm do not anderstand you", parse_mode='html')
 
 #7203e415-e100-4d06-863c-c6ed5b49fa7f
+#9cd0740e-39d0-48d2-a448-f42546488d94
 bot.polling(none_stop=True)
